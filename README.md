@@ -8,6 +8,8 @@ Copy and Paste main.py code to colab or pycharm
 
 Put main.py and imageNet data at the same folder 
 
+https://tiny-imagenet.herokuapp.com/
+
 Execution main.py in python environment like pycharm
 
 
